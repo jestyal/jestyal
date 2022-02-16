@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**jestyal/jestyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Natalie, I'm a Frontend developer 👨‍💻
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on JavaScript apps/systems
+- 🌱 I’m currently learning mobile development (Dart, Flutter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies:
+- HTML5, CSS3, Flex, Grid, LESS/SCSS, BEM, Bootstrap,
+- JavaScript (ES6), ReactJS (class, hooks, react-router), React Native
+- CMS Wordpress, Django Framework,
+- Figma, Adobe Photoshop, Adobe XD
+
+<!-- ### Contacts: -->
