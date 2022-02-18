@@ -7,7 +7,7 @@ I'm Natalie, I'm a Frontend developer 👨‍💻
 
 ### Technologies:
 - HTML5, CSS3, Flex, Grid, LESS/SCSS, BEM, Bootstrap
-- JavaScript (ES6), ReactJS (class, hooks, react-router), React Native
+- JavaScript (ES6), ReactJS (class, hooks, react-router, MobX)
 - CMS Wordpress, Django Framework
 - Figma, Adobe Photoshop, Adobe XD
 
