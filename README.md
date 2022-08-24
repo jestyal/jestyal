@@ -13,4 +13,8 @@ I'm Natalie, I'm a Frontend mobile developer 👨‍💻
 - CMS Wordpress, Django Framework
 - Figma, Adobe Photoshop, Adobe XD
 
-<!-- ### Contacts: -->
+### Contacts:
+[linkedin]: https://www.linkedin.com/in/jestyal
+[github]: https://github.com/jestyal
+[telegram]: https://t.me/jestyal
+<!-- [email]: mailto: -->
