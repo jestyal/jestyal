@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Natalie, I'm a Frontend mobile developer 👨‍💻
+I'm Natalie, I'm a frontend mobile developer who bacame a UI/UX designer 👨‍💻
 
 - 🎨 I’m currently working UX/UI design
 - 🎓 I’m currently learning on mobile development (Dart, Flutter)
